@@ -1,7 +1,7 @@
 # Razorpay-clone-by-ankit
 
 # click here for the demo  
-(https://ankitt1868.github.io/Razorpay-clone-by-ankit/)
+Check out the live demo [here](https://ankitt1868.github.io/Razorpay-clone-by-ankit/)
 
 # Screenshots
 # Number-1
