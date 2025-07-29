@@ -31,7 +31,7 @@
 # Number-13
 ![Image alt](https://github.com/Ankitt1868/Razorpay-clone-by-ankit/blob/352a18c07286380af8a193de3177ed3cc4699cba/Screenshots/Screenshot-13.png)
 # Contact
-For any inquiries, reach out at [actorankit6386@gmail.com].
-- GitHub: @Scoderankit.
+For any inquiries, reach out at [ankittiwari1868@gmail.com].
+- GitHub: @Ankitt1868.
 - Linkedin: linkedin.com/in/ankit-tiwari0123.
 - Instagram: @ankit_1868.
